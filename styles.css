@@ -36,7 +36,7 @@ a {
 .navbar {
     display: flex;
     position: relative;
-    justify-content: space-between;
+    justify-content:  space-around;
     align-items: center;
     background-color: #7f01fe;
     color: white;
@@ -70,7 +70,7 @@ a {
 }
 
 .navbar-links li a:hover {
-    background-color: #52307e;
+    background-color: #2f109e;
 }
 
 .toggle-button {
